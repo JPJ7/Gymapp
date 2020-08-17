@@ -1,5 +1,6 @@
 package org.meicode.gymapplication;
 
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
